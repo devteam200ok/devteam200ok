@@ -53,8 +53,6 @@ from lightweight 1-page apps to full-scale SaaS systems.
 ## 🧳 Projects I'm Building
 
 - [RunLab.cc](https://runlab.cc) → 1-page tools, no ads, no login, just utility.  
-- [DevTeam-App.com](https://devteam-app.com) → Source code marketplace + install service.  
-- [DevTeam-Lab.com](https://devteam-lab.com) → AI-powered APIs, content generators, and credit systems.  
 - [Spreadiom](https://spreadiom.com) → Automated banner ad manager for blogs & forums.  
 - … and more to come.
 
