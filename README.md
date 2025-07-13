@@ -60,7 +60,7 @@ from lightweight 1-page apps to full-scale SaaS systems.
 
 ## 📹 I Share
 
-- Weekly 1-page app demos via [YouTube Shorts](https://youtube.com/@devteam)
+- Weekly 1-page app demos via [YouTube Shorts](https://youtube.com/@devteam200ok)
 - GitHub repositories of open-source tools
 - Business ideas and development insights via blog and forum posts
 
